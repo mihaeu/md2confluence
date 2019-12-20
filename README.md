@@ -1,3 +1,9 @@
+# DEPRECATED
+
+## Use my new project Cosmere instead: https://github.com/mihaeu/cosmere
+
+---
+
 # markdown-to-confluence
 
 Update confluence pages from your markdown files (like a README.md)
